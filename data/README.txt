@@ -1,2 +1,5 @@
 The data can be obtained from
-https://drive.google.com/file/d/1s5lP71jGxaP1xq7ScSFKpf8V00LhdCN7/view?usp=sharing
+https://drive.google.com/file/d/1W3Ea8SOGWC5xEXvEFiJWtU25RQFeza8M/view?usp=sharing
+The file structure after decompressing is 
+data/MiddV3
+data/KITTI
