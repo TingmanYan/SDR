@@ -14,7 +14,7 @@ cd build
   cmake ..
   make -j4
 ```
-To run the demo,
+To run the demo
 - on Windows:  
   double-click demo.bat
 - on Mac & Ubuntu:  
