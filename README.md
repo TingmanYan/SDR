@@ -1,9 +1,24 @@
-# FDR
-Code for 'Fast Disparity Refinement with Occlusion Handling for Stereo Matching'  
-## Dependency
+# Segment-based Disparity Refinement with Occlusion Handling for Stereo Matching
+Please cite the [[paper](https://ieeexplore.ieee.org/document/8661596)] if you find it useful
+```
+@ARTICLE{8661596, 
+author={T. {Yan} and Y. {Gan} and Z. {Xia} and Q. {Zhao}}, 
+journal={IEEE Transactions on Image Processing}, 
+title={Segment-based Disparity Refinement with Occlusion Handling for Stereo Matching}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={1-1}, 
+doi={10.1109/TIP.2019.2903318}, 
+ISSN={1057-7149}, 
+month={},}
+```
+# Workflow
+![SDR](workflow.png)
+# Dependency
 -OpenCV 3  
 -Eigen
-## Usage
+# Usage
 ```
 mkdir build
 cd build
@@ -19,5 +34,5 @@ To run the demo
   double-click demo.bat
 - on Mac & Ubuntu:  
   ./demo.sh  
-### 
+## 
 You will obtain the same results as in our paper on Windows. Results on Mac is silghtly different due to the graph-based segmentation generates different number of superpixels on Mac and Windows.
