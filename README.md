@@ -4,14 +4,14 @@ Please cite the [[paper](https://ieeexplore.ieee.org/document/8661596)] if you f
 @ARTICLE{8661596, 
 author={T. {Yan} and Y. {Gan} and Z. {Xia} and Q. {Zhao}}, 
 journal={IEEE Transactions on Image Processing}, 
-title={Segment-based Disparity Refinement with Occlusion Handling for Stereo Matching}, 
+title={Segment-Based Disparity Refinement With Occlusion Handling for Stereo Matching}, 
 year={2019}, 
-volume={}, 
-number={}, 
-pages={1-1}, 
+volume={28}, 
+number={8}, 
+pages={3885-3897}, 
 doi={10.1109/TIP.2019.2903318}, 
 ISSN={1057-7149}, 
-month={},}
+month={Aug},}
 ```
 # Workflow
 ![SDR](workflow.png)
